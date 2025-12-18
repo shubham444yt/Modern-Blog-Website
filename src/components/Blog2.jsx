@@ -77,14 +77,14 @@ export default function BlogPage() {
             className="w-3/4 sm:w-1/2 md:w-1/3 mx-auto rounded-lg shadow-lg"
           />
           <div className="text-left">
-            <p className="text-lg text-gray-700 leading-relaxed">
+            <p className="text-lg text-gray-700 leading-relaxed"> 
             Discover Europe beyond the usual tourist hotspots with our list of the "Top 10 Hidden Gems in Europe" for 2025. From the serene beauty of Hallstatt in Austria to the unspoiled beaches of Sardinia, Italy, these destinations offer unique experiences and rich cultural heritage. Explore charming medieval towns, breathtaking natural wonders, and offbeat adventures that promise tranquility and awe. Perfect for travelers seeking something extraordinary and off the beaten path!
             </p>
           </div>
         </motion.div>
       </motion.section>
 
-
+{/* done */}
       {/* Featured Articles */}
       <motion.section
         initial={{ opacity: 0 }}

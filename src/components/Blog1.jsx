@@ -22,7 +22,7 @@ export default function BlogPage() {
       <div className="relative h-[100vh] text-white">
         <video
           className="absolute inset-0 w-full h-full object-cover brightness-70 saturate-130"
-          src="/images/video/web.mp4" // Replace with your video file path
+          src="/images/video/web.mp4" // Replace with your video file path yes
           autoPlay
           loop
           muted
